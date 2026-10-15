@@ -1,0 +1,6 @@
+{
+  "name": "CipherDrop - Ephemeral Secret Group Chat",
+  "description": "Secure, real-time temporary group chat with in-memory zero-retention messaging, automated session destruction, and live server telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
